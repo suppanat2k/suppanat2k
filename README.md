@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suppanat Suwanchawee</h1>
-<h3 align="center">I'm Suppant, A passionate software developer from Thailand</h3>
+<h3 align="center">I'm Suppanat, A passionate software developer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suppanat2k&label=Profile%20views&color=0e75b6&style=flat" alt="suppanat2k" /> </p>
 
